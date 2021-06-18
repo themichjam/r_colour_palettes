@@ -6,6 +6,7 @@ Different custom colour palettes for R visulisations. Mostly based on Horror, Sc
 ### Contents:
   - [The Exorcist](#theexorcistpalette)
   - [Jaws](#thejawspalette)
+  - [Alien](#alienpalette)
   - [Tutorial: How To](#tutorial)
  
  
@@ -18,6 +19,12 @@ Different custom colour palettes for R visulisations. Mostly based on Horror, Sc
 ## Jaws Palette
 
 ![Jaws](jaws/images/jawspalettepic.png)
+
+<font size="1"> Picture: the original Jaws movie poster.</font>
+
+## Alien Palette
+
+![Jaws](alien/images/alienpalettepic.png)
 
 <font size="1"> Picture: the original Jaws movie poster.</font>
 
