@@ -5,6 +5,7 @@ Different custom colour palettes for R visulisations. Mostly based on Horror, Sc
 
 ### Contents:
   - [The Exorcist](#theexorcistpalette)
+  - [Jaws](#thejawspalette)
   - [Tutorial: How To](#tutorial)
  
  
