@@ -14,6 +14,12 @@ Different custom colour palettes for R visulisations. Mostly based on Horror, Sc
 
 <font size="1"> Picture: the original The Exorcist movie poster.</font>
 
+## Jaws Palette
+
+![Jaws](jaws/images/jawspalette.png)
+
+<font size="1"> Picture: the original Jaws movie poster.</font>
+
 
 ## Tutorial
 
