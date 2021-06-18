@@ -2,6 +2,11 @@
 
 Different custom colour palettes for R visulisations. Mostly based on Horror, SciFi and Rock music. Updated list of palettes below. Package in development.
 
+
+### Contents:
+  - [The Exorcist](#theexorcistpalette)
+ 
+ 
 ## The Exorcist Palette
 
 ![Exorcist](exorcist/images/exorcistpalette.png)
