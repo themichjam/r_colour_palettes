@@ -16,7 +16,7 @@ Different custom colour palettes for R visulisations. Mostly based on Horror, Sc
 
 ## Jaws Palette
 
-![Jaws](jaws/images/jawspalette.png)
+![Jaws](jaws/images/jawspalettepic.png)
 
 <font size="1"> Picture: the original Jaws movie poster.</font>
 

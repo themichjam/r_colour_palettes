@@ -5,12 +5,12 @@ library(colorfindr) # extracts colors from images
 library(tidyverse) # tidy data wrangling & plotting
 
 # Get colors and create a palette with n = 5
-get_colors("images/exorcistposter.jpg") %>% # you can reference a local file on your computer or a jpg web address
+get_colors("baseimages/jawsposter.jpg") %>% # you can reference a local file on your computer or a jpg web address
   make_palette(n = 5) # here we extract 5 colors
 
 # Use your favorite magic number to set a seed:
 # set.seed(42)
-TEP <- get_colors("images/exorcistposter.jpg") %>%
+JCP <- get_colors("baseimages/jawsposter.jpg") %>%
   make_palette(n = 5)
 
 library(palmerpenguins) # get the penguin data
@@ -22,6 +22,6 @@ penguins %>% # feed ggplot the data
 penguins %>%
   ggplot(aes(flipper_length_mm, fill = species)) +
   geom_density(alpha = 0.8, color =NA)+
-  scale_fill_manual(values = TEP)+
+  scale_fill_manual(values = JCP)+
   theme_minimal()
 
