@@ -4,7 +4,7 @@ Different custom colour palettes for R visulisations. Mostly based on Horror, Sc
 
 ## The Exorcist Palette
 
-![Exorcist](exorcist/exorcistpalette.png)
+![Exorcist](exorcist/images/exorcistpalette.png)
 
 <font size="1"> Picture: the orginial The Exorcist movie poster.</font>
 
