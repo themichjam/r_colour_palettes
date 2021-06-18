@@ -112,3 +112,4 @@ penguins %>%
 * Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/. doi: 10.5281/zenodo.3960218.  
 * Zumbach, D. colorfindr. R package version 0.1.3. https://github.com/zumbov2/colorfindr.  
 
+* 200 Best Horror Movies of All Time. Rotten Tomatoes. https://editorial.rottentomatoes.com/guide/best-horror-movies-of-all-time/
